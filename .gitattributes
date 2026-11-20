@@ -1,0 +1,3 @@
+# .cmd: cmd.exe requires CRLF
+*.cmd text eol=crlf
+*.ico binary

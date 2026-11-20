@@ -1,0 +1,5 @@
+# Runtime files (normally in %LOCALAPPDATA%\NextcloudDrive)
+*.log
+cache/
+bin/
+settings.json
